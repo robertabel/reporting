@@ -1,0 +1,24 @@
+FromCode,ToCode,CategoryName,GroupName,Colour
+0,999,Diagnostic,Dx,Yellow
+1000,1999,Dx,Dx-2,Yellow
+2100,2199,Dx,Dx-3,Orange
+2200,5199,Diagnostic,Unknown,Yellow
+5200,5299,Dx,Dx-4,Pink
+5300,9999,Diagnostic,Dx,Black
+10000,10999,Preventative,Prev,Purple
+11000,11999,Scaling,Scaling-1,Purple
+12000,12999,Scaling,Scaling-2,Purple
+13200,13299,Scaling,Scaling-3,Light Purple
+13300,13399,Scaling,Sc,Light Purple
+13400,13499,Scaling,Scaling-4,Light Purple
+13500,13999,Scaling,Sc,Light Purple
+20000,26999,Resto,Resto-1,Green
+27000,27999,Resto,Resto-2,Gold
+28000,29999,Resto,Rs,Black
+30000,39999,Endo,Endo,Blue
+40000,49999,Periodontal,Perio,Brown
+50000,59999,Prostho-R,Prostho-R,Teal
+60000,69999,Prostho,Prostho,Violet
+70000,79999,Exo,Exo,Red
+80000,89999,Orthodontic,Ortho,Grey
+90000,99999,Adjunctive,Adj,Grey
