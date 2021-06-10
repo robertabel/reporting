@@ -1,5 +1,5 @@
 FromCode,ToCode,CategoryName,GroupName,Colour
-0,999,Diagnostic,Dx,Pink
+0,999,Diagnostic,Dx,Blue
 1000,1999,Dx,Dx-2,Yellow
 2100,2199,Dx,Dx-3,Orange
 2200,5199,Diagnostic,Unknown,Yellow
